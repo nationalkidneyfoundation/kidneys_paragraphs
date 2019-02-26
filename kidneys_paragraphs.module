@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kidneys Paragraphs feature.
+ */
+
+include_once 'kidneys_paragraphs.features.inc';
